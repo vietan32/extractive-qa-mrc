@@ -1,0 +1,10 @@
+[
+  {
+    "context": "Phạm Đôn Lễ sinh năm 1457 tại làng Hải Triều (tục gọi là làng Hới), thuộc tổng Thanh Triều, phủ Long Hưng, huyện Ngự Thiên, tỉnh Hưng Yên (nay là thôn Hải Triều, xã Tân Lễ, huyện Hưng Hà, tỉnh Thái Bình) trong một gia đình nghèo khó, bố làm nghề chài lưới, mẹ bán quán nước cho khách qua đò. Khi ông còn rất nhỏ thì người bố qua đời, hai mẹ con đơn côi sống dựa vào hàng quán. Một lần Phạm Đôn Lễ bị lạc ở bờ sông Luộc, người mẹ đi tìm khắp nơi mà không được. Trong lúc lang thang vì lạc mẹ thì Phạm Đôn Lễ được một gia đình giàu có quê ở Thanh Hóa đưa lên thuyền về nhà nuôi dưỡng.",
+    "question": "tam nguyên phạm đôn lễ sinh năm nào",
+    "answers": {
+      "text": ["1457"],
+      "answer_start": [21]
+    }
+  }
+]
